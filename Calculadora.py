@@ -7,11 +7,11 @@ numero2 = input("Digite o segundo número: ")
 
 if operacao == "soma":
     resultado = int(numero1) + int(numero2)
-if operacao == "sub":
+elif operacao == "sub":
     resultado = int(numero1) - int(numero2)
-if operacao == "mult":
+elif operacao == "mult":
     resultado = int(numero1) * int(numero2)
-if operacao == "div":
+elif operacao == "div":
     resultado = int(numero1) / int(numero2)
 else:
     resultado = "A operação não pode ser realizada"
@@ -19,7 +19,3 @@ else:
 # OBS.: em py usa elif para relacionar os if
 
 print("O resultado da operação é: " + str(resultado))
-
-
-# else:
-# resultado = "A operacao nao pode ser realizada"
