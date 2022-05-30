@@ -1,2 +1,2 @@
 # Study
-Studying Python and Data Science. 2022 X
+Studying Python and Data Science. 2022
