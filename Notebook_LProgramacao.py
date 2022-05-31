@@ -10,9 +10,7 @@ Original file is located at
 
 # As anotações originais encontram-se no notebook do Colab e foram convertidas 
 # para um arquivo .py com o intuito de submeter ao repositório de estudos no GitHub
-# Todos os códigos funcionam perfeitamente no Colab e talvez alguns apenas
-# necessitem de pequenas alterações para rodar no VSCode (já que no Colab basta
-# usar shift+enter).
+# Todos os códigos funcionam perfeitamente no Colab.
 
 # Lógica de Programação com Python
 """
