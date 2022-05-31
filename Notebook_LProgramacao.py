@@ -276,6 +276,5 @@ for nota in notas:
 
 
 Início: 30 de Maio de 2022
-
 Conclusão: 30 de Maio de 2022
 """
