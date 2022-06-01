@@ -8,3 +8,4 @@ git add . (Todos os arquivos de uma vez)
 git diff (Mostra as alterações do arquivo: em vermelho o que saiu, em verde o que entrou)
 git diff -> git HEAD~1 
 git HEAD~1 (Compara com o último commit)
+branch / pull-requests / merge 
