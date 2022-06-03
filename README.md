@@ -1,2 +1,2 @@
-# Study
-Studying Python and Data Science. 
+# Codes
+Studying Python, Data Science and Software Development.
