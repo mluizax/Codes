@@ -19,7 +19,6 @@ while ok:
 
 # Menu pessoa
     elif menuop == '1':
-        # if qntPessoas < 5: testando quantidade limitada
         nome = input('Informe o nome: ')
         cpf = input('Informe o CPF: ')
         idade = input('Informe a idade: ')
