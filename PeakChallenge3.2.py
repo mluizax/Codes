@@ -1,8 +1,6 @@
 # Método número 2 para resolver o Desafio 1 - Algoritmo Peak Finding
 # Criação de uma função para obter o índice do maior valor de cada lista
 
-from webbrowser import get
-
 list_one = [1, 2, 3]
 list_two = [2, 3, 1]
 list_three = [3, 2, 1]
